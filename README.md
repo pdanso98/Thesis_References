@@ -2,6 +2,7 @@
 This is a list of references for my master's thesis.
 
 Adebowale, O., & Simpeh, F. (2023). Exploring the effects of studentification on neighborhoods in Nigeria. Journal of Facilities Management, 21(1), 30-49. https://doi.org/10.1108/JFM-05-2021-0050 
+
 Alfs, L. (2016, October 28). Parents opt to buy homes for Nashville college students. The Tennessean. https://www.tennessean.com/story/money/2016/10/28/parents-opt-buy-homes-nashville-college-students/92721586/
 Baron, M. G., & Kaplan, S. (2010). The impact of 'studentification' on the rental housing market. 
 Becker, J. A. (2023). Managing the Strengths and Challenges of Student Residential Growth Around the Campus: A Case Study of the University of Cincinnati Miami University]. http://rave.ohiolink.edu/etdc/view?acc_num=miami1689895372572218
